@@ -1,0 +1,29 @@
+<Solution>
+  <PropertyGroup Name="Guess" Version="2.3.2.3" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Project Name="GameScene.csd" Type="Scene" />
+        <Folder Name="R">
+          <Folder Name="Global">
+            <TTF Name="calibri.ttf" />
+            <Image Name="MainScenceCFG.png" />
+            <Image Name="face_book.png" />
+            <Image Name="game_center.png" />
+            <Image Name="line.png" />
+            <PlistParticleFile Name="hand_particle.plist" />
+            <Image Name="title_en.png" />
+            <Image Name="rule.png" />
+          </Folder>
+          <Folder Name="StartGame">
+            <Image Name="start_btn_main.png" />
+          </Folder>
+        </Folder>
+        <Project Name="Layer_GameOver.csd" Type="Layer" />
+        <Project Name="Layer_GameStart.csd" Type="Layer" />
+        <Project Name="Layer_GamePause.csd" Type="Layer" />
+        <PlistParticleFile Name="hand_expload.plist" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

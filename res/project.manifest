@@ -1,0 +1,12 @@
+{
+    "packageUrl" : "http://staticbin.sinaapp.com/static/guess/package",
+    "remoteManifestUrl" : "http://staticbin.sinaapp.com/static/guess/project.manifest",
+    "remoteVersionUrl" : "http://staticbin.sinaapp.com/static/guess/version.manifest",
+    "version" : "1.0.0",
+    "groupVersions" : {
+        "1" : "1.0.0"
+    },
+    "engineVersion" : "3.0 rc0",
+    "searchPaths" : [
+    ]
+}

@@ -1,0 +1,648 @@
+{
+  "ID": "060c0634-5973-4539-931a-53bd5982b98a",
+  "Version": "2.2.6.0",
+  "Name": "Layer_GameStart",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 5,
+        "Children": [
+          {
+            "BackColorAlpha": 204,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 1.4094,
+              "Y": -1.4093
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 14,
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0022,
+              "Y": -0.0012
+            },
+            "PreSize": {
+              "X": 2.0,
+              "Y": 1.0
+            },
+            "LeftMargin": 1.4094,
+            "RightMargin": -641.4094,
+            "TopMargin": 1.4093,
+            "BottomMargin": -1.4093,
+            "Tag": 7,
+            "ActionTag": -652143251,
+            "Size": {
+              "X": 1280.0,
+              "Y": 1136.0
+            },
+            "Name": "Panel_Color_BG",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "CheckedState": true,
+            "NormalBackFileData": {
+              "Type": "Default",
+              "Path": "Default/CheckBox_Normal.png",
+              "Plist": ""
+            },
+            "PressedBackFileData": {
+              "Type": "Default",
+              "Path": "Default/CheckBox_Press.png",
+              "Plist": ""
+            },
+            "DisableBackFileData": {
+              "Type": "Default",
+              "Path": "Default/CheckBox_Disable.png",
+              "Plist": ""
+            },
+            "NodeNormalFileData": {
+              "Type": "Default",
+              "Path": "Default/CheckBoxNode_Normal.png",
+              "Plist": ""
+            },
+            "NodeDisableFileData": {
+              "Type": "Default",
+              "Path": "Default/CheckBoxNode_Disable.png",
+              "Plist": ""
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 400.0,
+              "Y": 287.0
+            },
+            "Scale": {
+              "ScaleX": 1.5,
+              "ScaleY": 1.5
+            },
+            "CColor": {
+              "R": 251,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.625,
+              "Y": 0.2526
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 380.0,
+            "RightMargin": 220.0,
+            "TopMargin": 829.0,
+            "BottomMargin": 267.0,
+            "Tag": 19,
+            "ActionTag": 1450457207,
+            "Size": {
+              "X": 40.0,
+              "Y": 40.0
+            },
+            "Name": "CheckBox_Music",
+            "ctype": "CheckBoxObjectData"
+          },
+          {
+            "FontSize": 48,
+            "LabelText": "Music:",
+            "HorizontalAlignmentType": "HT_Right",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "AnchorPoint": {
+              "ScaleX": 1.0,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 330.0,
+              "Y": 285.26
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 251,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5156,
+              "Y": 0.2511
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 192.0,
+            "RightMargin": 310.0,
+            "TopMargin": 823.74,
+            "BottomMargin": 258.26,
+            "Tag": 20,
+            "ActionTag": -663145015,
+            "Size": {
+              "X": 138.0,
+              "Y": 54.0
+            },
+            "Name": "Text_Music",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 48,
+            "LabelText": "Sound:",
+            "HorizontalAlignmentType": "HT_Right",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "AnchorPoint": {
+              "ScaleX": 1.0,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 330.0,
+              "Y": 150.8
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 251,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5156,
+              "Y": 0.1327
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 178.0,
+            "RightMargin": 310.0,
+            "TopMargin": 958.2,
+            "BottomMargin": 123.8,
+            "Tag": 21,
+            "ActionTag": 1001150824,
+            "Size": {
+              "X": 152.0,
+              "Y": 54.0
+            },
+            "Name": "Text_Sound",
+            "ctype": "TextObjectData"
+          },
+          {
+            "CheckedState": true,
+            "NormalBackFileData": {
+              "Type": "Default",
+              "Path": "Default/CheckBox_Normal.png",
+              "Plist": ""
+            },
+            "PressedBackFileData": {
+              "Type": "Default",
+              "Path": "Default/CheckBox_Press.png",
+              "Plist": ""
+            },
+            "DisableBackFileData": {
+              "Type": "Default",
+              "Path": "Default/CheckBox_Disable.png",
+              "Plist": ""
+            },
+            "NodeNormalFileData": {
+              "Type": "Default",
+              "Path": "Default/CheckBoxNode_Normal.png",
+              "Plist": ""
+            },
+            "NodeDisableFileData": {
+              "Type": "Default",
+              "Path": "Default/CheckBoxNode_Disable.png",
+              "Plist": ""
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 400.0,
+              "Y": 150.0
+            },
+            "Scale": {
+              "ScaleX": 1.5,
+              "ScaleY": 1.5
+            },
+            "CColor": {
+              "R": 251,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.625,
+              "Y": 0.132
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 380.0,
+            "RightMargin": 220.0,
+            "TopMargin": 966.0,
+            "BottomMargin": 130.0,
+            "Tag": 22,
+            "ActionTag": -2066655577,
+            "Size": {
+              "X": 40.0,
+              "Y": 40.0
+            },
+            "Name": "CheckBox_Sound",
+            "ctype": "CheckBoxObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "R/StartGame/start_btn_main.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 251,
+            "Scale9Height": 258,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.0,
+              "Y": 563.9997
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.4965
+            },
+            "PreSize": {
+              "X": 0.4391,
+              "Y": 0.2465
+            },
+            "LeftMargin": 179.5,
+            "RightMargin": 179.5,
+            "TopMargin": 432.0003,
+            "BottomMargin": 423.9997,
+            "Tag": 23,
+            "ActionTag": -672240102,
+            "Size": {
+              "X": 281.0,
+              "Y": 280.0
+            },
+            "Name": "Button_Start",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "R/Global/title_en.png",
+              "Plist": ""
+            },
+            "Scale9Width": 512,
+            "Scale9Height": 241,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.0,
+              "Y": 900.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.7923
+            },
+            "PreSize": {
+              "X": 0.8,
+              "Y": 0.2121
+            },
+            "LeftMargin": 64.0,
+            "RightMargin": 64.0,
+            "TopMargin": 115.5,
+            "BottomMargin": 779.5,
+            "Tag": 15,
+            "ActionTag": 189131143,
+            "Size": {
+              "X": 512.0,
+              "Y": 241.0
+            },
+            "Name": "Image_Title",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "R/Global/rule.png",
+              "Plist": ""
+            },
+            "Scale9Width": 557,
+            "Scale9Height": 448,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 960.0001,
+              "Y": 396.2899
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 1.5,
+              "Y": 0.3488
+            },
+            "PreSize": {
+              "X": 0.4352,
+              "Y": 0.3944
+            },
+            "LeftMargin": 681.5001,
+            "RightMargin": -598.5001,
+            "TopMargin": 515.7101,
+            "BottomMargin": 172.2899,
+            "Tag": 15,
+            "ActionTag": 1723862245,
+            "Size": {
+              "X": 557.0,
+              "Y": 448.0
+            },
+            "Name": "Image_4",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 100,
+            "LabelText": "Game Guide",
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 960.0,
+              "Y": 925.8774
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "G": 254,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 1.5,
+              "Y": 0.815
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 677.0,
+            "RightMargin": -603.0,
+            "TopMargin": 153.6226,
+            "BottomMargin": 869.3774,
+            "Tag": 25,
+            "ActionTag": 1002037880,
+            "Size": {
+              "X": 566.0,
+              "Y": 113.0
+            },
+            "Name": "Text_Rule",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 48,
+            "LabelText": "Touch To Continue",
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 960.0,
+              "Y": 768.6876
+            },
+            "Scale": {
+              "ScaleX": 0.8,
+              "ScaleY": 0.8
+            },
+            "CColor": {
+              "R": 93,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 1.5,
+              "Y": 0.6767
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 762.0,
+            "RightMargin": -518.0,
+            "TopMargin": 340.3124,
+            "BottomMargin": 741.6876,
+            "Tag": 36,
+            "ActionTag": -974224243,
+            "Size": {
+              "X": 396.0,
+              "Y": 54.0
+            },
+            "Name": "Text_Touch_Continue",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "R/Global/line.png",
+              "Plist": ""
+            },
+            "Scale9Width": 14,
+            "Scale9Height": 1136,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 853.537,
+              "Y": 396.3684
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 0.3887
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 1.3337,
+              "Y": 0.3489
+            },
+            "PreSize": {
+              "X": 0.0219,
+              "Y": 1.0
+            },
+            "LeftMargin": 846.537,
+            "RightMargin": -220.537,
+            "TopMargin": 171.6316,
+            "BottomMargin": -171.6316,
+            "Tag": 37,
+            "ActionTag": 1363487376,
+            "Size": {
+              "X": 14.0,
+              "Y": 1136.0
+            },
+            "Name": "Image_2",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "R/Global/line.png",
+              "Plist": ""
+            },
+            "Scale9Width": 14,
+            "Scale9Height": 1136,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1067.3127,
+              "Y": 396.5966
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 0.3887
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 1.6677,
+              "Y": 0.3491
+            },
+            "PreSize": {
+              "X": 0.0219,
+              "Y": 1.0
+            },
+            "LeftMargin": 1060.3127,
+            "RightMargin": -434.3127,
+            "TopMargin": 171.4034,
+            "BottomMargin": -171.4034,
+            "Tag": 38,
+            "ActionTag": 1705472437,
+            "Size": {
+              "X": 14.0,
+              "Y": 1136.0
+            },
+            "Name": "Image_2_0",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 1136.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}

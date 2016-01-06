@@ -1,0 +1,466 @@
+{
+  "ID": "1e40f719-f650-4269-aa90-56ee70933d10",
+  "Version": "2.2.6.0",
+  "Name": "Layer_GameOver",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 4,
+        "Children": [
+          {
+            "BackColorAlpha": 204,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 15,
+            "ActionTag": 1353169251,
+            "Size": {
+              "X": 640.0,
+              "Y": 1136.0
+            },
+            "Name": "Panel_Color_BG",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "R/Global/game_center.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 72,
+            "Scale9Height": 80,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 183.0061,
+              "Y": 151.5415
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "G": 212,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2859,
+              "Y": 0.1334
+            },
+            "PreSize": {
+              "X": 0.1594,
+              "Y": 0.0898
+            },
+            "LeftMargin": 132.0061,
+            "RightMargin": 405.9939,
+            "TopMargin": 933.4585,
+            "BottomMargin": 100.5415,
+            "Tag": 22,
+            "ActionTag": -466592244,
+            "Size": {
+              "X": 102.0,
+              "Y": 102.0
+            },
+            "Name": "Button_Ranking",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "R/Global/face_book.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 72,
+            "Scale9Height": 80,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 476.7181,
+              "Y": 158.1169
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7449,
+              "Y": 0.1392
+            },
+            "PreSize": {
+              "X": 0.1594,
+              "Y": 0.0898
+            },
+            "LeftMargin": 425.7181,
+            "RightMargin": 112.2819,
+            "TopMargin": 926.8831,
+            "BottomMargin": 107.1169,
+            "Tag": 21,
+            "ActionTag": 702080952,
+            "Size": {
+              "X": 102.0,
+              "Y": 102.0
+            },
+            "Name": "Button_Share",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 100,
+            "LabelText": "Game Over",
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.0,
+              "Y": 949.8488
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "G": 233,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.8361
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 95.0,
+            "RightMargin": 95.0,
+            "TopMargin": 136.1512,
+            "BottomMargin": 899.8488,
+            "Tag": 14,
+            "ActionTag": -1652605043,
+            "Size": {
+              "X": 450.0,
+              "Y": 100.0
+            },
+            "Name": "Text_Title",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "R/StartGame/start_btn_main.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 251,
+            "Scale9Height": 258,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 316.7126,
+              "Y": 400.6412
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4949,
+              "Y": 0.3527
+            },
+            "PreSize": {
+              "X": 0.4391,
+              "Y": 0.2465
+            },
+            "LeftMargin": 176.2126,
+            "RightMargin": 182.7874,
+            "TopMargin": 595.3588,
+            "BottomMargin": 260.6412,
+            "Tag": 16,
+            "ActionTag": -1733045720,
+            "Size": {
+              "X": 281.0,
+              "Y": 280.0
+            },
+            "Name": "Button_Start",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 72,
+            "LabelText": "123123",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "R/Global/calibri.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.0,
+              "Y": 810.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 131,
+              "B": 100
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.713
+            },
+            "PreSize": {
+              "X": 0.3469,
+              "Y": 0.088
+            },
+            "LeftMargin": 209.0,
+            "RightMargin": 209.0,
+            "TopMargin": 276.0,
+            "BottomMargin": 760.0,
+            "Tag": 18,
+            "ActionTag": -2108548829,
+            "Size": {
+              "X": 222.0,
+              "Y": 100.0
+            },
+            "Name": "Text_Score",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 50,
+            "LabelText": "Best:",
+            "HorizontalAlignmentType": "HT_Right",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "AnchorPoint": {
+              "ScaleX": 1.0,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 331.2845,
+              "Y": 695.2068
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5176,
+              "Y": 0.612
+            },
+            "PreSize": {
+              "X": 0.2344,
+              "Y": 0.0616
+            },
+            "LeftMargin": 181.2845,
+            "RightMargin": 308.7155,
+            "TopMargin": 405.7932,
+            "BottomMargin": 660.2068,
+            "Tag": 19,
+            "ActionTag": 1745702248,
+            "Size": {
+              "X": 150.0,
+              "Y": 70.0
+            },
+            "Name": "Text_Best",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 50,
+            "LabelText": "123",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 356.0339,
+              "Y": 693.2468
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5563,
+              "Y": 0.6103
+            },
+            "PreSize": {
+              "X": 0.2688,
+              "Y": 0.0616
+            },
+            "LeftMargin": 356.0339,
+            "RightMargin": 111.9661,
+            "TopMargin": 407.7532,
+            "BottomMargin": 658.2468,
+            "Tag": 20,
+            "ActionTag": 993497152,
+            "Size": {
+              "X": 172.0,
+              "Y": 70.0
+            },
+            "Name": "Text_Best_Scroe",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 1136.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}
